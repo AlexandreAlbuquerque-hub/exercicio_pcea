@@ -1,3 +1,1 @@
-# exercicio_pcea
-
-## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
+Na materia de FUNDAMENTOS P. C. E A. DE COMPUTADORES foi muito bom no inicio pois ela fala bastante da parte de hardware que eu não conheço tanto, e isso me ajudo. Foi também o inicio do curso na faculdade, estava bem animado, e é fundamental para todo o momento do curso, pois fala de como as coisas foram evoluindo até chegar aonde estão no caso a programação e como trabalhar com ela, abrindo as portas para o mercado de trabalho, eu particularmente acredito muito que independente do rumo que a pessoa for ter na vida é muito válido e muito importante que tenha conhecimentos de programação principalmente na parte de hardware no caminho que o mundo está com o avanço tecnologico, não tenho duvidas que essa materia é muito importante para qualquer um que queira outras formas de conseguir chegar nos seus objetivos.
